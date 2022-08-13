@@ -9,7 +9,7 @@
 <p>📫 You can reach me here if you want to collab with me! Or feel free to message me on <a href="https://www.linkedin.com/in/cameron--burns/">my LinkedIn</a> for business inquiries.</p>
 
  <h2>⌨ Languages I work with</h2>
- <p>✅ HTML and CSS <img style="height: 5vh;" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></p> 
+ <p>✅<img style="height: 8vh;" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></p> 
  <p>✅ JavaScript</p>
  <p>✅ Python</p>
  <p>✅ SQL</p>
