@@ -9,7 +9,7 @@
 <p>📫 You can reach me here if you want to collab with me! Or feel free to message me on <a href="https://www.linkedin.com/in/cameron--burns/">my LinkedIn</a> for business inquiries.</p>
 
  <h2>⌨ Languages I work with</h2>
- <p>✅ HTML and CSS</p>
+ <p>✅ HTML and CSS</p> <img src="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg">
  <p>✅ JavaScript</p>
  <p>✅ Python</p>
  <p>✅ SQL</p>
@@ -18,8 +18,6 @@
  <p>🔳 C++</p>
  <p>🔳 PHP</p>
  <p>🔳 Lua</p>
- 
- <h1 style="color: red;">Testing</h1>
 
 <!---
 Cameron0942/Cameron0942 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
