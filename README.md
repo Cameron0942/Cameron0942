@@ -17,12 +17,14 @@
  <p>Python<br><br>
  <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
  </p>
- <p>SQLbr><br>
+ <p>SQL<br><br>
  <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
  </p> 
- 
+
  <h2>🤔 Languages I'm familiar with</h2>
- <p>🔳 C++</p>
+ <p>C++<br><br>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+ </p>
  <p>🔳 PHP</p>
  <p>🔳 Lua</p>
 
