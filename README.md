@@ -22,7 +22,7 @@
  <p>🔳 PHP</p>
  <p>🔳 Lua</p>
  
- <img src="https://thumbs.dreamstime.com/b/hi-word-speech-bubble-hand-drawn-lettering-comic-design-99825893.jpg" </img>
+ <img src="https://thumbs.dreamstime.com/b/hi-word-speech-bubble-hand-drawn-lettering-comic-design-99825893.jpg" >
 
 <!---
 Cameron0942/Cameron0942 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
