@@ -1,4 +1,4 @@
-<h1">Hi there! 👋</h1>
+<h1>Hi there! 👋</h1>
 
 <h2>ℹ About me</h2>
 
@@ -12,15 +12,15 @@
 <p>📫 You can reach me here if you want to collab! Or feel free to message me on <a href="https://www.linkedin.com/in/cameron--burns/">my LinkedIn</a> for business inquiries.</p>
 
  <h2>⌨ Languages I work with</h2>
- ✅ HTML and CSS
- ✅ JavaScript
- ✅ Python
- ✅ SQL
+ <p>✅ HTML and CSS</p>
+ <p>✅ JavaScript</p>
+ <p>✅ Python</p>
+ <p>✅ SQL</p>
  
  <h2>🤔 Languages I'm familiar with</h2>
- 🔳 C++
- 🔳 PHP
- 🔳 Lua
+ <p>🔳 C++</p>
+ <p>🔳 PHP</p>
+ <p>🔳 Lua</p>
 
 <!---
 Cameron0942/Cameron0942 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
