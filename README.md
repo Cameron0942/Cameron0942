@@ -10,27 +10,27 @@
 
  <h2>⌨ Languages I work with</h2>
  <p>HTML, CSS, and JavaScript (Node.JS)<br><br>
- <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
- <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
- <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
- <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+ <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
+ <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
+ <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+ <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
  </p> 
  <p>Python<br><br>
- <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+ <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
  </p>
  <p>SQL<br><br>
- <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
+ <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
  </p> 
 
  <h2>🤔 Languages I'm familiar with</h2>
  <p>C++<br><br>
- <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+ <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
  </p>
  <p>PHP<br><br>
- <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
+ <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
  </p>
  <p>Lua<br><br>
- <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
+ <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
  </p>
 
 <!---
