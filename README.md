@@ -2,6 +2,8 @@
 
 <h2>ℹ About me</h2>
 
+<p>🎓 My name is Cameron Burns. I am a self-taught web developer who is aiming to break into the tech industry. </p>
+
 - 👀 I’m interested in learning as much as I can about the growing world of web development.
 - 🌱 I’m currently learning Node.JS to for backend engineering, as well as React.JS for frontend design.
 - 💞️ I’m looking to collaborate on beginner projects.
