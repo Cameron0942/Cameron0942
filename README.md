@@ -17,7 +17,9 @@
  <p>Python<br><br>
  <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
  </p>
- <p>✅ SQL</p>
+ <p>SQLbr><br>
+ <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
+ </p> 
  
  <h2>🤔 Languages I'm familiar with</h2>
  <p>🔳 C++</p>
