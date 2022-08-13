@@ -1,4 +1,4 @@
-<h1 style="background-color: green;">Hi there! 👋</h1>
+<h1 style="color: green;">Hi there! 👋</h1>
 
 <h2>ℹ About me</h2>
 
