@@ -14,7 +14,7 @@
  <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
  <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
  </p> 
- <p>Python
+ <p>Python<br><br>
  <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
  </p>
  <p>✅ SQL</p>
