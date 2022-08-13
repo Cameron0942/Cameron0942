@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Cameron0942
+<h1>Hi there! 👋</h1>
+
+<h2>ℹ About me</h2>
+
 - 👀 I’m interested in learning as much as I can about the growing world of web development.
 - 🌱 I’m currently learning Node.JS to for backend engineering, as well as React.JS for frontend design.
 - 💞️ I’m looking to collaborate on beginner projects.
