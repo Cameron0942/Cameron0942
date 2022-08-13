@@ -10,7 +10,7 @@
 
  <h2>⌨ Languages I work with</h2>
  <p style="font-weight: 900;">HTML, CSS, and JavaScript <br><br>
- <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
+ <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
  <img style="height: 12vh;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
  <img style="height: 12vh;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
  </p> 
