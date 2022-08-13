@@ -23,10 +23,14 @@
 
  <h2>🤔 Languages I'm familiar with</h2>
  <p>C++<br><br>
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+ <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
  </p>
- <p>🔳 PHP</p>
- <p>🔳 Lua</p>
+ <p>PHP<br><br>
+ <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
+ </p>
+ <p>Lua<br><br>
+ <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
+ </p>
 
 <!---
 Cameron0942/Cameron0942 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
