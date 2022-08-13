@@ -12,7 +12,7 @@
  <p style="font-weight: 900;">HTML, CSS, and JavaScript (Node.JS)<br><br>
  <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
  <img style="height: 15vh;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
- <img style="height: 15vh; margin-left: 1%;" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+ <img style="height: 15vh; margin-left: 100%;" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
  </p> 
  <p>✅ Python</p>
  <p>✅ SQL</p>
