@@ -8,30 +8,33 @@
 <p>🤝 I’m looking to collaborate on open source projects, and am really enthusiastic about learning new technologies. I have been programming on and off for about 6 years in various languages, and have finally set off to learn everything I can about the JavaScript language.</p>
 <p>📫 You can reach me here if you want to collab with me! Or feel free to message me on <a href="https://www.linkedin.com/in/cameron--burns/">my LinkedIn</a> for business inquiries.</p>
 
- <h2>⌨ Languages I work with</h2>
- <p>HTML, CSS, and JavaScript (Node.JS)<br><br>
- <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
- <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
- <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
- <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
- </p> 
- <p>Python<br><br>
- <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
- </p>
- <p>SQL<br><br>
- <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
- </p> 
+ ## 🛠 Skills
 
- <h2>🤔 Languages I'm familiar with</h2>
- <p>C++<br><br>
- <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
- </p>
- <p>PHP<br><br>
- <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
- </p>
- <p>Lua<br><br>
- <img style="height: 10vh;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
- </p>
+ ### Languages
+ ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+ ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+ ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+ 
+ ### Front-End Development
+ ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+ ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+ 
+ ### Back-End Development
+ ![noode.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+ ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+ ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+ 
+ ## 🔗 Links
+ [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](#) (Under Construction)
+ [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](#) (Under Construction)
+ [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cameron--burns/)
+ [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Cameron0942)
 
 <!---
 Cameron0942/Cameron0942 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
