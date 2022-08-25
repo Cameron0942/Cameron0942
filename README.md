@@ -35,8 +35,6 @@
  [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/17Sh0OnoNikjEv5vYv1QZy63q5CoB0cr9/view?usp=sharing)
  [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cameron--burns/)
  [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Cameron0942)
- 
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 
 <!---
 Cameron0942/Cameron0942 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
