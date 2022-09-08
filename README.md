@@ -39,7 +39,7 @@
  [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cameron--burns/)
  [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Cameron0942)
  
- ## 📊 Metrics
+ ## 📊 Stats
  ![Profile views](https://gpvc.arturio.dev/Cameron0942) <br>
  ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cameron0942&theme=vue)
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Cameron0942)
