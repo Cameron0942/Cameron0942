@@ -45,7 +45,8 @@
  ![Profile views](https://gpvc.arturio.dev/Cameron0942) <br>
  ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cameron0942&theme=vue)
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Cameron0942)
- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cameron0942) 
+ ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cameron0942)
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cameron0942&theme=tokyonight" alt="mystreak"/>
 
 <!---
 Cameron0942/Cameron0942 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
