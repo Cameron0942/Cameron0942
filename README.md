@@ -2,10 +2,9 @@
 
 <h2>ℹ About me</h2>
 
-<p>🎓 My name is Cameron Burns. I am a self-taught web developer aiming to break into the tech industry by developing systems for backend environments. I have some university experience in Computer Science, but have not yet graduated. I have learned a bulk of what I know through self teaching.</p>
-<p>👀 Currently I’m interested in learning as much as I can about backend web development, and how to write robust and clean code.</p>
-<p>🌱 I’m currently learning (to name a few) Node.JS, React.JS, and MySQL to round out my knowledge of web development.</p>
-<p>🤝 I’m looking to collaborate on open source projects, and am really enthusiastic about learning new technologies. I have been programming on and off for about 6 years in various languages, and have finally set off to learn everything I can about the JavaScript language.</p>
+<p>🎓 My name is Cameron Burns. I
+ My name is Cameron, and as a passionate fullstack developer, I possess a deep commitment to learning and serving my community. My aim is to design and develop scalable, maintainable, and efficient software solutions that meet the needs of clients. I thrive in cooperative environments with people of diverse backgrounds and varying skill sets. I take my communication skills just as seriously as I take my technical skills, constantly looking for ways to improve myself. I'm always eager to put in the time and effort necessary to ensure my own success as well as the success of the organizations I work for. I take pride in the professionalism that I put into my work and am committed to delivering top-quality solutions that exceed expectations.
+ </p>
 
  ## 🛠 Skills
 
