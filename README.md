@@ -46,7 +46,7 @@
 <!--  [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Cameron0942) -->
  
  ## 📊 Stats
- ![Profile views](https://gpvc.arturio.dev/Cameron0942) <br>
+ <!-- ![Profile views](https://gpvc.arturio.dev/Cameron0942) <br> -->
  ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cameron0942&theme=tokyonight)
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Cameron0942&theme=tokyonight)
  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cameron0942&theme=tokyonight)
