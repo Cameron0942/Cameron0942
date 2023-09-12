@@ -1,4 +1,4 @@
-<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
+<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 
 <h2>ℹ About me</h2>
 
@@ -60,11 +60,11 @@ So, if you're seeking a professional fullstack developer who's not only a tech e
  ### ☁ Cloud
  ![digital-ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
  ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
- ![render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+ ![render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
  ### 💻 OS
- ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
  ![windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+ ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
  ### 📚 Resources
  ![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
@@ -75,6 +75,7 @@ So, if you're seeking a professional fullstack developer who's not only a tech e
 
  ### 🌄 On The Horizon
  ![next-js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+ ![go-lang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
  
  ## 🔗 Links
  [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.cameronburnsdev.com/) 
@@ -84,6 +85,7 @@ So, if you're seeking a professional fullstack developer who's not only a tech e
  
  ## 📊 Stats
  <!-- ![Profile views](https://gpvc.arturio.dev/Cameron0942) <br> -->
+ ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCameron09421212%2Fhit-counter)
  ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cameron0942&theme=tokyonight)
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Cameron0942&theme=tokyonight)
  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cameron0942&theme=tokyonight)
