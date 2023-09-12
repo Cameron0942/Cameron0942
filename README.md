@@ -27,7 +27,7 @@ So, if you're seeking a professional fullstack developer who's not only a tech e
  ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
  ![scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
- ## 🚀 (Frameworks, Libraries, and Tools)
+ ## 🚀 Frameworks, Libraries, and Tools
  
  ### 🖼🎨🖌 Front-End Development
  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
