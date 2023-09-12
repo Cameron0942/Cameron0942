@@ -6,7 +6,7 @@
  </p> -->
 
  <p>
-  Hello! My name is Cameron, though you can call me Cam. <ins>Imagine this:</ins> an endlessly curious web developer with an unrelenting motivation for solving problems. That's who I am.
+  My name is Cameron, though you can call me Cam. <ins>Imagine this:</ins> an endlessly curious web developer with an unrelenting motivation for solving problems. That's who I am.
 
 I'm not your run-of-the-mill fullstack developer. I see coding challenges as thrilling puzzles in an ever-evolving adventure. <ins><b>The MERN stack?</b></ins> I'm fluent in it, but I'm also known for my flexibility with various programming languages, always eager for new linguistic adventures.
 
