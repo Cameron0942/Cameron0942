@@ -6,11 +6,11 @@
  </p> -->
 
  <p>
-  Hello! My name is Cameron, though you can call me Cam. Imagine this: an endlessly curious web developer with an unrelenting motivation for solving problems. That's who I am.
+  Hello! My name is Cameron, though you can call me Cam. <u>Imagine this:</u> an endlessly curious web developer with an unrelenting motivation for solving problems. That's who I am.
 
-I'm not your run-of-the-mill fullstack developer. I see coding challenges as thrilling puzzles in an ever-evolving adventure. The MERN stack? I'm fluent in it, but I'm also known for my flexibility with various programming languages, always eager for new linguistic adventures.
+I'm not your run-of-the-mill fullstack developer. I see coding challenges as thrilling puzzles in an ever-evolving adventure. <b>The MERN stack?</b> I'm fluent in it, but I'm also known for my flexibility with various programming languages, always eager for new linguistic adventures.
 
-What sets me apart? I'm a dedicated team-player. I thrive in collaborative environments, where diverse backgrounds and skills merge into a powerful synergy. It's a continuous learning experience, much like mastering a complex quest.
+What sets me apart? I'm a dedicated team-player. I thrive in collaborative environments, where diverse backgrounds and skills merge into a powerful synergy. It's a continuous learning experience.
 
 So, if you're seeking a professional fullstack developer who's not only a tech expert but also someone you'd enjoy working with, let's connect. Together we can bring your web development visions to life!
  </p>
