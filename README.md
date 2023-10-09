@@ -5,6 +5,8 @@
 <!-- <p>My name is Cameron, and as a passionate fullstack developer, I possess a deep commitment to learning and serving my community. My aim is to design and develop scalable, maintainable, and efficient software solutions that meet the needs of clients. I thrive in cooperative environments with people of diverse backgrounds and varying skill sets. I take my communication skills just as seriously as I take my technical skills, constantly looking for ways to improve myself. I'm always eager to put in the time and effort necessary to ensure my own success as well as the success of the organizations I work for. I take pride in the professionalism that I put into my work and am committed to delivering top-quality solutions that exceed expectations.
  </p> -->
 
+ <!-- -->
+
  <p>
   My name is Cameron, though you can call me Cam. <ins>Imagine this:</ins> an endlessly curious web developer with an unrelenting motivation for solving problems. That's who I am.
 
