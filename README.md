@@ -85,7 +85,7 @@ So, if you're seeking a professional fullstack developer who's not only a tech e
  
  ## 🔗 Links
  [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.cameronburnsdev.com/) 
- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://docs.google.com/document/d/10w5201ekcSOjhcrFfEEKdkHgOqU2Gdw5/edit#heading=h.gjdgxs)
+ [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://drive.google.com/file/d/1HVEUHjxJRnF0frB1SLH5OrMIjv6ka-My/)
  [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cameron--burns/)
 <!--  [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Cameron0942) -->
  
